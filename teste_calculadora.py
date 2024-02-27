@@ -7,3 +7,6 @@ def main():
     print(f'{a} + {b} = {soma}')
 
 main()
+
+def subtrair(a, b):
+    return a - b 
