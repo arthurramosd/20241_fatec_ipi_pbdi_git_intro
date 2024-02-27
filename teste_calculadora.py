@@ -5,6 +5,8 @@ def main():
     b = 3 
     soma = calculadora.somar(a, b)
     print(f'{a} + {b} = {soma}')
+    subtracao = calculadora.subtrair(a, b)
+    pirnt(f'{a} - {b} = subtracao')
 
 main()
 
